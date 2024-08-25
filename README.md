@@ -17,11 +17,11 @@
 
 solved.ac의 티어별로 나뉩니다.
 
-ex) ps/problem/gold/gold5
+ex) `ps/problem/gold/gold5`
 
 알고리즘 개념은 따로 나뉩니다.
 
-ex) ps/algorithm/sorting
+ex) `ps/algorithm/sorting`
 
 
 
